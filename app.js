@@ -11,7 +11,6 @@ function adicionarAmigo(){
         alert("Por favor, insira um nome.")
     } else{
     amigoInserir(alvoAmigo);
-    console.log(amigosLista);
     limparCampo('#amigo', 'valor');
 
 // aqui vai o loop para criar <li> para cada nome, optei por usar while
@@ -78,7 +77,6 @@ function sortearAmigo(){
 
     resultado.innerHTML = `Amigo Sorteado: ${amigoSortudo}`;
 
-    console.log(amigosLista[amigoEscolhido]);
 
     // eu tentei com pop mas descobri que ele só remove em formato de pilha, o ultimo elemento inserido
     //amigosLista.pop(amigosLista[amigoEscolhido]);
