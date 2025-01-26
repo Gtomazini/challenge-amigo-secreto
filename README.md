@@ -6,7 +6,7 @@ Arte obtida de Alura LATAM
 ![Badge em Desenvolvimento Concluído](https://img.shields.io/badge/status-concluido-red)
 
 # Teste Agora
-[Clique aqui para jogar o jogo do Amigo Secreto !](https://challenge-amigo-secreto-sooty.vercel.app)
+[Clique aqui para jogar o jogo do Amigo Secreto !](https://gtomazini.github.io/challenge-amigo-secreto)
 # 📁 Acesso ao projeto
 
 Você pode [clicar aqui para baixar o código fonte via zip](https://github.com/Gtomazini/challenge-amigo-secreto/archive/refs/heads/main.zip) ou usar git clone no seguinte endereço git@github.com:Gtomazini/challenge-amigo-secreto.git
